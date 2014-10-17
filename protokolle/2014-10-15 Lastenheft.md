@@ -1,5 +1,5 @@
 | Datum | Beginn | Ende | Ort | Teilnehmer | Protokoll | Thema |
-|-------|--------|------|--------------------------|------------------|-----------------------------------------------|
+|-------|--------|------|-----|------------|-----------|-------|
 | 15.10.2014 | 16.00 | 17.00 | G 15.34 | Patrick Menden, Dario Segger, Matthias Lorenz, Nisanth Mahendrarajah, Jasin Keshk, Tim Ziegenbein, Tim Helfensdörfer, Marcus Wintgen, Auftraggeber, Herr Hofschuster | Tim Ziegenbein | Erstes Treffen mit Auftraggeber & Erörterung der Aufgabe (Lastenheft) |
 
 ## Auftragserteilung durch Auftraggeber
