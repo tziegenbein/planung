@@ -1,0 +1,29 @@
+|                                | 13.-17.10 | 20.-24.10 | 27.-31.10 | 03.-07.11 | 10.-14.11 | 17.-21.11 | 24.-28.11 | 01.-05.12 | 08.-12.12 | 15.-19.12 | 05.-09.01 | 12.-16.01 | 19.-23.01 | 26.-30.01 | 
+| ------------------------------ | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| **Planung, Analyse**           |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Interview Auftraggeber         |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Lastenheft, Glossar            |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Projektkalkulation/-plan       |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| **Definitionsphase**           |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Pflichtenheft                  |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Proptotyp/Pilotsystem          |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Benutzerhandbuch               |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| OO-Analysemodell               |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| **Entwurfsphase**              |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Architekturkonzept             |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Schnittstellendefinition       |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| OO-Entwurfsmodell              |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| **Implementierung**            |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Codierung                      |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Modultest                      |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Integration Einzelkomponenten  |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Test Gesamtsystem              |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Dokumentation                  |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| **Abnahme, Produkteinführung** |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Abnahmetest                    |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Produktpräsentation            |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| **Wartung und Pflege**         |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| -                              |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| **Zusätzlich**                 |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| Einarbeitung in UML-Tool       |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
+| GUI-Prog, Qt usw.              |           |           |           |           |           |           |           |           |           |           |           |           |           |           |
