@@ -16,7 +16,7 @@ Die Regeln für das Pokerspiel legte er auf die bekannteste Spielform, "Texas Ho
 Falls ein Spieler zu lange keine Eingabe während eines Spiels tätigt (Timer gesteuert) so foldet er automatisch sein Blatt. Die Blinds (small blind & big blind) sollen sich alle 15 min. erhöhen (zu Beginn um das doppelte, und dann weniger). Es soll möglich sein eine Spielstatistik auslesen zu können.
 Was schön wäre, jedoch keine zwingende Anforderung ist, ist die Möglichkeit für einen Spieler an mehreren Tischen gleichzeitig zu spielen. 
 Eine Chat-Funktion soll implementiert werden, in der es möglich sein soll, während eines Spiels mit den Mitspielern zu kommunizieren. Dabei ist die Priorität auf den Chat in schriftlicher Form und nicht auf einen Voice-Chat gelegt. 
-Das Programm soll möglichst sicher geschrieben sein, damit keiner die Chance / Gelegenheit zum Betrügen hat. Es soll möglichst auf allen gängigen OS laufen (Windows, Linus, Mac, Android, IOS). Die Gruppe einigte sich auf die Durchführung mit QT, was die Kompatibilität zu allen OS sicherstellt. Die Sprache des Spiels soll deutsch sein. 
+Das Programm soll möglichst sicher geschrieben sein, damit keiner die Chance / Gelegenheit zum Betrügen hat. Es soll möglichst auf allen gängigen OS laufen (Windows, Linus, Mac, Android, IOS). Die Gruppe einigte sich auf die Durchführung mit QT, was die Kompatibilität zu allen OS sicherstellt. Die Sprache des Spiels soll, primär, deutsch sein. 
 
 ### Schlussfolgerung
 
