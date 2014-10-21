@@ -10,7 +10,7 @@
 4. Lastenheft wurde aus allen zusammen getragenen Sachen erstellt. 
 5. Anregung: Turniertisch auch mit einem Einsatz von 0€ eröffnen zu können um ein "Just for fun" Pokerspiel zu ermöglichen
 6. Sicherheitsaspekt: Die Möglichkeit des Cheatens besteht immer! Daher können wir diesen Punkt nicht ins Lastenheft aufnehmen denn wir können nicht dafür garantieren das nicht gecheatet werden kann. 
-Alle von uns getroffenen Vorkehrungen damit nicht gecheated werden kann kommen aufgelistet ins Pflichtenheftä
+Alle von uns getroffenen Vorkehrungen damit nicht gecheated werden kann kommen aufgelistet ins Pflichtenheft
 7. Lastenheft wurde abgeschlossen und von allen anwesenden kontrolliert
 8. Projektkallkulation (Programmierkosten) liegt bei 13.000€ falls wir diese Frage gestellt bekommen.
 Berechnet aus 8 Std. pro Woche pro Teilnehmer bis zur Präsentation mit dem branchenüblichen Stundenlohn von 69€
